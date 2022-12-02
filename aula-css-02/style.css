@@ -1,0 +1,19 @@
+header {
+  background-color: lightgray
+  padding: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+}
+
+nav {
+  background-color: #EF7D19;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  margin-left: 1.5rem;
+  list-style: none;
+}
