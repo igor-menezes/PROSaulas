@@ -7,13 +7,27 @@
 header {
   background-color: lightgrey;
   display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin-bottom: 1rem;
 }
 
 nav {
-  background-color: #ef7d19;
-
+  background-color: none;
 }
 
 ul{
   display: flex;
+  align-items: center;
+  height: 100%;
+  text-decoration-style: none;
+}
+
+li{
+  margin-left: 1.5rem;
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
 }
