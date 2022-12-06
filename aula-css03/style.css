@@ -28,7 +28,6 @@ nav ul li {
 }
 
 main {
-  background-color: aqua;
   color: white;
   padding-top: 16px;
   width: 800px;
@@ -63,3 +62,6 @@ section {
   display: flex;
 }
 
+body {
+  background-color: blueviolet;
+}
