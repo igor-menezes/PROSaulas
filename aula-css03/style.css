@@ -16,11 +16,10 @@ a {
 }
 
 nav {
- */background-color: #EF7D19;*/ 
+  */background-color: #EF7D19;*/
 }
 
 ul {
-
   display: flex;
   height: 100%;
   align-items: center;
