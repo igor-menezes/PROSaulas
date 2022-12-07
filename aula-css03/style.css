@@ -47,7 +47,7 @@ h2 {
 
 div {
   margin-left: 100px;
-  background-image: url("/img/bg_laranja.jpg");
+  background-image: url("./img/bg_laranja.jpg");
   margin: 1rem;
   padding: 2rem;
   width: 20rem;
