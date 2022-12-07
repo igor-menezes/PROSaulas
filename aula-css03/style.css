@@ -11,8 +11,12 @@ header {
   padding: 16px;
 }
 
+a {
+  text-decoration: none;
+}
+
 nav {
-  background-color: #EF7D19;
+ */background-color: #EF7D19;*/ 
 }
 
 ul {
